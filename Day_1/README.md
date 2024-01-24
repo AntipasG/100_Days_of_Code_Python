@@ -1,9 +1,8 @@
-This is Day 1 of working on the projectes of python
-[## Printing to the Console
+This is Day 1 of working on the project of python
 
 ## Instructions
 
-Write a program in main.py that prints the same notes from the previous lesson using what you have learnt about the Python print function. 
+Write a program in main.py that prints the same notes from the previous lesson using what you have learned about the Python print function. 
 
 **Warning:** The output in your program should match the example output shown below exactly, character for character, even spaces and symbols should be identical, otherwise the tests won't pass.
 
@@ -59,10 +58,6 @@ e.g. When you hit **run**, there should be no errors and this is what should hap
 # Instructions
 
 Write a program that prints the number of characters in a user's name. You might need to Google for a function that calculates the length of a string.
-
-e.g.
-
-[https://www.google.com/search?q=how+to+get+the+length+of+a+string+in+python+stack+overflow](https://www.google.com/search?sxsrf=ACYBGNRxEaJIWyKHuWI0Lk24t4KuZVyeew:1579706585702&q=how+to+get+the+length+of+a+string+in+python+stack+overflow)
 
 **Warning.** Your program should work for different inputs. e.g. any name that you input.
 
