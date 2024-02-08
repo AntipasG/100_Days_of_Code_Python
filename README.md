@@ -9,7 +9,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 ## 🔰 Beginner
 - [Day 1:](https://github.com/AntipasG/100_Days_of_Code_Python/tree/main/Day_1) Working with Variables in Python to Manage Data
 - [Day 2:](https://github.com/AntipasG/100_Days_of_Code_Python/tree/main/Day_2) Understanding Data Types and How to Manipulate Strings
-
+- [Day 3:](https://github.com/AntipasG/100_Days_of_Code_Python/tree/main/Day_3)
 ## ⚙ Tools and Technologies Covered
 - Python 3
 - PyCharm, Jupyter Notebook, Google Colab
